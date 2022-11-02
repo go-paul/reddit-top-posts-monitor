@@ -1,0 +1,6 @@
+# compiled Python
+*.py[cod]
+__pycache__
+
+# generated output
+reddit_top_posts_monitor/data/*
